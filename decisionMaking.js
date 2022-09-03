@@ -7,6 +7,7 @@ var doorChoice = 1;
 var bearClothing = "";
 var bearChoice = 1;
 
+
 console.log("You enter a dark room with two doors. Do you go through #1 or #2?");
 
 if (doorChoice === 1) {
@@ -31,6 +32,10 @@ if (bearChoice === 1) {
 } else {
   "You stay with the bear and become it's best friend!";
 }
+doorChoice = 2;
+bearClothing = "";
+bearChoice = 2
+
 
 
 // Questions
