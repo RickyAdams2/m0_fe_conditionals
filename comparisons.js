@@ -120,7 +120,8 @@ console.log(lovesToPlay || lovesDogPark)
 console.log(lovesToPlay && age)
 
 // What did your final line of code evaluate to? Why do you think that is? Explain.
-// ANSWER:
+// ANSWER: My final line of code evaluated to 1. I think that is because we didn't compare 2 of the same data types. The
+// variable "lovesToPlay is assigned as a Boolean, while the variable "age" is assigned as a number.
 
 // this is just another examples I tried out of curiosity.
-console.log(lovesToPlay && isAPuppy)
+// console.log(lovesToPlay && isAPuppy) This did not work becsuse isAPuppy hasn't been defined.
