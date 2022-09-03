@@ -109,7 +109,9 @@ console.log(lovesToPlay && lovesDogPark)
 
 
 // Determine if the dog loves to play or loves the dog park
-console.log(lovestoPlay || lovesDogPark)
+// console.log(lovestoPlay || lovesDogPark)
+console.log(lovesToPlay || lovesDogPark)
+
 
 
 
