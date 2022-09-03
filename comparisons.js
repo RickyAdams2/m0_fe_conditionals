@@ -121,3 +121,6 @@ console.log(lovesToPlay && age)
 
 // What did your final line of code evaluate to? Why do you think that is? Explain.
 // ANSWER:
+
+// this is just another examples I tried out of curiosity.
+console.log(lovesToPlay && isAPuppy)
