@@ -56,22 +56,27 @@ console.log("Is numberStudents less than or equal to 21?", numberStudents <= 21)
 // Make sure YOU can explain it that way!
 
 console.log(4 < 9);
-// YOU DO: This line of code is
+// YOU DO: This line of code is determinging the comparison of variables 4 and 9, and if 4 is less than 9. This should log as false.
 
 var books = 3;
 console.log(4 < books);
-// YOU DO:
+// YOU DO: This line of code is assigning the variable books as three. Then the line below asks us to compare
+//the number 4 to the variable books. Since 4 is not less than the variable books, this should log as false.
+
 
 var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
-// YOU DO:
+// YOU DO: The first line of code is assigning the variable friends as 6, and the second line of code is assigning the variable siblings
+// as 2. The 3rd line of code is comparing the values of each variable by asking if the variable friends is more than the
+//valu of siblings. This should log true.
 
 var attendees = 9;
 var meals = 8;
 console.log(attendees != meals);
-// YOU DO: Explain.
-
+// YOU DO: The first line of code assigns the variable attendees to 9, while the second line of code assigns the variable meals to 8.
+// The third line of cone is compaing the variables by asking if the variable attendees is not stricktly equal to the variables
+// meals. This should log as true.
 
 // #-------------------
 // PART 3: Logical Operators
